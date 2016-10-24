@@ -1,0 +1,19 @@
+.img {
+     background-image: url("tech.png");
+}
+#blue {
+    background-color:#4dbce9;
+    padding:30px;
+    text-align:center;
+}
+#green {
+    background-color:#d1e751;
+    padding:1px;
+}
+#banner {
+    margin:0 auto;
+    width:1350px;
+}
+#footer {
+    background-color: black;
+}
